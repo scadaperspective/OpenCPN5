@@ -21,5 +21,5 @@ including:
   - Apache (v2.0)
   - Creative Commons 0 License
 
-The complete file-by-file list is available in the file data/copyright.
+The complete file-by-file list is available in the file data/copyright folder. Please refer to https://github.com/OpenCPN/OpenCPN.
 
